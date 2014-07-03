@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:c_6_if_else/c_6_if_else.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_4_define_method/c_4_define_method.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_3_define/c_3_define.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_2_method/c_2_method.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_1_stdIO/c_1_stdIO.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_0_main/c_0_main.xcodeproj">
+   </FileRef>
+</Workspace>
