@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>AF726D80-81B4-491B-9C00-A82B57AE487C</string>
+	<string>BFFB3D6B-B160-412D-97F6-0AD0569CE22E</string>
 	<key>IDESourceControlProjectName</key>
-	<string>c_0</string>
+	<string>c_1_stdIO</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>B1211A5C-79F6-4C2A-B73D-CFA42FD8C5CD</key>
 		<string>ssh://github.com/laizhihuan/c-learn.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>xcode/c_0/c_0.xcodeproj/project.xcworkspace</string>
+	<string>xcode/c_1_stdIO/c_1_stdIO.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>B1211A5C-79F6-4C2A-B73D-CFA42FD8C5CD</key>
