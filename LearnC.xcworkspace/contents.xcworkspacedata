@@ -2,6 +2,33 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:c_15_randnum/c_15_randnum.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_14_string/c_14_string.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_13_include/c_13_include.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_12_ooc/c_12_ooc.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_11_typedef/c_11_typedef.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_10_function_point/c_10_function_point.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_9_struct_point/c_9_struct_point.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_8_struct/c_8_struct.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:c_7_loop/c_7_loop.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:c_6_if_else/c_6_if_else.xcodeproj">
    </FileRef>
    <FileRef
