@@ -8,6 +8,12 @@
 
 #include <iostream>
 
+struct queue {
+    int data[100];
+    int head;
+    int tail;
+};
+
 int main(int argc, const char * argv[]) {
     
     //需要解密的字符串
@@ -31,6 +37,30 @@ int main(int argc, const char * argv[]) {
     getchar();
     getchar();
     
+    //---------------------------------
+    
+    struct queue sq;
+    int i;
+    sq.head = 1;
+    sq.tail = 1;
+    
+    for (i=1; i<=9; i++) {
+        scanf("%d",&sq.data[sq.tail]);
+        sq.tail++;
+    }
+    
+    while (sq.head<sq.tail) {
+        printf("%d",sq.data[sq.head]);
+        sq.head++;
+    
+        sq.data[sq.tail] = sq.data[sq.head];
+        sq.tail++;
+        
+        sq.head++;
+    }
+    
+    getchar();
+    getchar();
     
     return 0;
 }
